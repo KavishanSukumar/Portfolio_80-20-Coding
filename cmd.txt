@@ -1,5 +1,8 @@
+TO INSTALL ALL PAKAGES IN JSON AFTER CLONING APPLY "npm i"
+
 npm i bootstrap
 
 npm i --save @fortawesome/fontawesome-svg-core
 npm install --save @fortawesome/free-solid-svg-icons
 npm install --save @fortawesome/react-fontawesome
+
