@@ -1,12 +1,9 @@
-// import './App.css';
-import 'bootstrap/dist/css/bootstrap.min.css'
+import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Navbar from "./components/Navbar";
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-          <h1>Kavishan</h1>
-      </header>
-    </div>
+    <Navbar/>
   );
 }
 
